@@ -1,0 +1,4 @@
+This study evaluates the batting performance of a N.Tilak Varma by comparing two phases (Phase 1: Upto Asia Cup 2025, Phase 2: Post Asia Cup 2025 i.e., from Oct 31st 2025) of the player's career using bootstrap resampling techniques. 
+Traditional descriptive statistics such as batting average, strike rate, and mean runs per innings were computed separately for both phases.
+A non-parametric bootstrap with 10,000 resamples was then applied to estimate confidence intervals for these performance measures and their differences. The study also examined performance against pace and spin bowling.
+While descriptive statistics indicate a decline in performance during the second phase, the bootstrap confidence intervals suggest that the observed differences are not statistically significant at the 95% confidence level.
