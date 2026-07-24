@@ -9,21 +9,22 @@ While descriptive statistics indicate a decline in performance during the second
 
 There are two types of data 
 - One consists innings level data
-  > Match No
-  > Runs scored
-  > Balls taken to score 
-  > Outs and Avg
-  > 4s and 6s scored
-  > Dot ball percent
-  > Career Phase either Before or After
+  - Match No
+  - Runs scored
+  - Balls taken to score 
+  - Outs and Avg
+  - 4s and 6s scored
+  - Dot ball percent
+  - Career Phase either Before or After
 - Another have the performanace against different bowling type either Spin / Pace in different parts of his career
 
 ## Descriptive Analysis
 Overall Career
-Bowling Type	Strike Rate	Batting Average
-Overall	143.9	43.6
-Spin	125.5	41.23
-Pace	155.7	44.86
+|Bowling Type| Strike Rate | Batting Average |
+|------------|-------------|-----------------|
+|Overall     |	143.9	     |  43.6           |
+|Spin        |	125.5      |	41.23          |
+|Pace        |	155.7      |	44.86          |
 
 The player maintained an aggressive scoring rate throughout the career, particularly against pace bowling.
 
