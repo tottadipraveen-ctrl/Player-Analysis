@@ -28,44 +28,44 @@ Overall Career
 
 The player maintained an aggressive scoring rate throughout the career, particularly against pace bowling.
 
-Phase-wise Analysis
+## Phase-wise Analysis
+
 Overall Performance
-Metric	Phase 1	Phase 2
-Innings	30	23
-Outs	18	18
-Strike Rate	149.1	136.2
-Batting Average	53.4	33.7
-Interpretation
+|Metric   |	Phase 1	 | Phase 2 |
+|---------|----------|---------|
+| Innings | 	30     |    23   |
+|Outs     |	18       |	  18   |
+|Strike Rate	| 149.1|  136.2  | 
+|Batting Average|	53.4	|33.7  |
+
 
 Compared with Phase 1,
-
-Strike rate decreased by approximately 9%.
-Batting average decreased by approximately 37%.
+ - Strike rate decreased by approximately 9%.
+ - Batting average decreased by approximately 37%.
 
 These descriptive statistics suggest reduced batting performance during Phase 2.
 
 Performance Against Spin
-Metric	Phase 1	Phase 2
-Strike Rate	140	111.7
-Batting Average	44.38	31.6
-Interpretation
+|Metric|	Phase 1|	Phase 2|
+|------|---------|---------|
+|Strike Rate|	140|	111.7|
+|Batting Average |	44.38|	31.6|
 
-The player became less effective against spin.
+- The player became less effective against spin.
+- Strike rate reduced considerably.
+- Batting average also declined.
 
-Strike rate reduced considerably.
-Batting average also declined.
-
-This indicates slower scoring and more frequent dismissals against spin bowling.
 
 Performance Against Pace
-Metric	Phase 1	Phase 2
-Strike Rate	159.7	150.18
-Batting Average	60.7	32.7
-Interpretation
+|Metric|	Phase 1|	Phase 2|
+|------|---------|---------|
+|Strike Rate |	159.7	|150.18|
+|Batting Average|	60.7|32.7 |
+
 
 Against pace,
+- Strike rate remained relatively high.
+- Batting average declined sharply.
+- The player continued scoring aggressively but lost wickets more frequently.
 
-Strike rate remained relatively high.
-Batting average declined sharply.
 
-The player continued scoring aggressively but lost wickets more frequently.
