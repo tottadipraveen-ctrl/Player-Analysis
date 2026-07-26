@@ -9,7 +9,7 @@ Later I plotted Cummulative Batting Average
 <img width="937" height="516" alt="image" src="https://github.com/user-attachments/assets/da9f0231-87d1-4716-b082-084766f946ba" />
 
 Inital fluctuations are common because less number of matches are played and slight change in runs scored and getting out can change it significantly.
-But, after it got some consistency it dropped a bit this happens when the batsman gets out scoring lesser than previous batting average.
+But, after it got some consistency and dropped a bit this happens when the batsman gets out scoring lesser than previous batting average.
 This trend can be observed from 30th match.
 
-After being the Player of the Match in Asia Cup 2025 Final which 
+After being the Player of the Match in Asia Cup 2025 Final (September 28, 2025) by scoring an unbeaten 69 off 53 while anchoring the innings in his 30th game, the next game he played was on 31st October 2025 vs Australia, in Australia 
