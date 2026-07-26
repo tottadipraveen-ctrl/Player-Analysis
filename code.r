@@ -68,6 +68,18 @@ boot.diff_runs <- Before.boot$t - After.boot$t
 quantile(boot.diff_runs,c(0.025,0.975))
 
 
+file$dotballs <- (file$`Dot%`*file$Balls)/100
+overalldotperc <- sum(file$dotballs)/sum(file$Balls)*100
+overalldotperc
+
+Before$dotballs <- (Before$`Dot%`*Before$Balls)/100
+Beforedotperc <- sum(Before$dotballs)/sum(Before$Balls)*100
+Beforedotperc
+
+After$dotballs <- (After$`Dot%`*After$Balls)/100
+Afterdotperc <- sum(After$dotballs)/sum(After$Balls)*100
+Afterdotperc
+
 
 boot.sr <- function(Before, indices){
   sample <- Before[indices, ]
@@ -132,8 +144,11 @@ boot.avg <- function(After, indices){
 After.boot_avg <- boot(After, statistic = boot.avg, R = 10000)
 boot.ci(After.boot_avg, type = "perc")
 
+mean(Before.boot_avg$t)
+mean(After.boot_avg$t)
 
 boot.diff_avg <- Before.boot_avg$t - After.boot_avg$t
 quantile(boot.diff_avg,c(0.025,0.975))
+
 
 
