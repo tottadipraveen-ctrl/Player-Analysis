@@ -93,6 +93,8 @@ The player's batting statistics suggest lower performance during the second phas
 
 Nevertheless, bootstrap analysis indicates that these observed differences are not statistically significant at the 95% confidence level. The overlap in confidence intervals and the inclusion of zero in the confidence interval for the difference in mean runs suggest that the apparent decline may be attributable to natural variation rather than a true deterioration in batting ability.
 
+The large bootstrap standard error and wide confidence interval indicate considerable variability in the estimated performance. Therefore, the observed difference between the phases should be interpreted cautiously.
+
 Therefore, based on the available data, the bootstrap analysis does not provide sufficient evidence to conclude that the player's batting performance changed significantly between the two career phases.
 
 ## Limitations
